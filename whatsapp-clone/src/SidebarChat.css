@@ -6,7 +6,7 @@
 }
 
 .sidebarChat:hover {
-  background-color: #ebebeb;
+  background-color: rgb(225, 238, 225);
 }
 
 .sidebarChat__info > h2 {
